@@ -43,11 +43,11 @@ lgbm to predict the next target variable
 
 
 # MODELLING
-- try normal conv-nets vs resnets
+- try conv-nets, resnets
 - data augmentation on spectral data(spectarl augmentations eg. spectral flipping or shifting)
 - try spectrai
 
 
-# Things to do when i get back to the hostel
+# Things to try later
 - look at the new data, see if it can improve model accuracy
-- try batch size of 2 etc
+- try different batch sizes
