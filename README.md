@@ -5,3 +5,5 @@
 Traditionally we do blood analysis by collecting blood samples from patients and perform different tests on the samples. In this competition, you will help scientists from bloods.ai to make progress towards non-invasive blood analyses.
 For this purpose, you build machine learning models that can classify the level of specific chemical compounds in samples from their spectroscopic data. In simple terms when we direct a beam of light towards a sample, the light is partially absorbed and/or reflected based on the sample's molecular structure (different chemical compounds present).
 
+# Data Collection
+Raw data is obtained as a result of the scanner shining light into the target (in this case, a fingertip). The information is presented as a function of wavelength in nanometers (nm). In order to account for all wavelength data, the results are registered as an array of values.
