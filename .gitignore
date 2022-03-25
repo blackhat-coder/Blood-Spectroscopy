@@ -6,8 +6,8 @@ bin-release/
 
 # Other files and folders
 .settings/
-.sprectrAI/
-.papers/
+.sprectrAI
+.papers
 
 # Executables
 *.swf
