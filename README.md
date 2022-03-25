@@ -16,7 +16,5 @@ On the electromagnetic spectrum, NIR spectra cover the wavelength range of 750-2
 <img src="https://github.com/blackhat-coder/Blood-Spectroscopy/blob/master/imgs/Biologicalwindow.JPG" width="500" height="250">
  
 ## Spectral Signature of Compounds
-<img src="https://github.com/blackhat-coder/Blood-Spectroscopy/blob/master/imgs/cholesterol.JPG" width="500" height="250">
-<img src="https://github.com/blackhat-coder/Blood-Spectroscopy/blob/master/imgs/Glucose.JPG" width="500" height="250">
-<img src="https://github.com/blackhat-coder/Blood-Spectroscopy/blob/master/imgs/hemoglobin.JPG" width="500" height="250">
+<img src="https://github.com/blackhat-coder/Blood-Spectroscopy/blob/master/imgs/cholesterol.JPG" width="500" height="250"><img src="https://github.com/blackhat-coder/Blood-Spectroscopy/blob/master/imgs/Glucose.JPG" width="500" height="250"><img src="https://github.com/blackhat-coder/Blood-Spectroscopy/blob/master/imgs/hemoglobin.JPG" width="500" height="250">
   
