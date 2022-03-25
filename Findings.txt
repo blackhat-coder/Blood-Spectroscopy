@@ -1,0 +1,53 @@
+NIR Spectrometry Efficacy and Tools
+
+- stable NIR-enabled devices
+
+decompose beer-lambert law:
+- quantity of light absorbed is directly proportional to the
+  concentration of the substance.
+
+METHODOLOGIES
+- ANN
+- CNNs
+
+Regularization Techniques
+- Bayesian regularized ANN(BRANN) [can be applied]
+
+Patented Solution:
+In order to achieve an NIR scan most reflective of the associated
+blood sample, both the scan and sample are collected within 15mins
+of one another to  mitigate metabolic variations occurring between
+collections and limit variation within the dataset.
+
+Number of NIR channels and exposure time affect analysis results
+
+Compromised results are discarded(readings impacted by temperature)
+inconsistencies and other variables
+
+
+SPECTROSCOPY
+spectroscopy is the interaction between light and matter
+
+
+if a compound has a high absorption rate at that wavelength,
+
+# Things to try
+- remove id's where average temperature is high
+- add, additional hgb, hdl, ldl rows
+
+
+
+- we can use the conv-net to predict ubalanced target, then add it to a df containing temperature and other details, then use a normal
+lgbm to predict the next target variable
+
+
+
+# MODELLING
+- try normal conv-nets vs resnets
+- data augmentation on spectral data(spectarl augmentations eg. spectral flipping or shifting)
+- try spectrai
+
+
+# Things to do when i get back to the hostel
+- look at the new data, see if it can improve model accuracy
+- try batch size of 2 etc
