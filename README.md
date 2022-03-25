@@ -13,6 +13,10 @@ To create a reliable scan, the operation is done 60 times. Temperature and humid
 ## Bilogical Window
 On the electromagnetic spectrum, NIR spectra cover the wavelength range of 750-2500 nm. This is known as the biological window, and it is within this range that we will be working on this problem. We can collect signatures of chemical substances present in blood that flows close to the skin's surface blood vessels in this way. The penetration depth in millimeters of each wavelength over the near infrared band is depicted in the diagram below.
 
-<img src="https://github.com/blackhat-coder/Blood-Spectroscopy/blob/master/imgs/Biologicalwindow.JPG" width="100" height="100">
+<img src="https://github.com/blackhat-coder/Blood-Spectroscopy/blob/master/imgs/Biologicalwindow.JPG" width="500" height="250">
  
 ## Spectral Signature of Compounds
+<img src="https://github.com/blackhat-coder/Blood-Spectroscopy/blob/master/imgs/cholesterol.JPG" width="500" height="250">
+<img src="https://github.com/blackhat-coder/Blood-Spectroscopy/blob/master/imgs/Glucose.JPG" width="500" height="250">
+<img src="https://github.com/blackhat-coder/Blood-Spectroscopy/blob/master/imgs/hemoglobin.JPG" width="500" height="250">
+  
