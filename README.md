@@ -36,6 +36,7 @@ Cholesterol Signature Graph, Glucose Signature Graph, Hemoglobin Signature Graph
 
 # Usage(Jupyter Notebook)
 Open `EDA.ipynb` to access source codes. You can also make edits to suite your hacking style ☺
+You can access `Findings.txt` to explore some of my ideas.
 
 # Acknowledgements
 Some of the things I found useful while tackling this challenge
