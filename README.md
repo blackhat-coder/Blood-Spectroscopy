@@ -24,12 +24,13 @@ Cholesterol Signature Graph, Glucose Signature Graph, Hemoglobin Signature Graph
 - Download [Data Files](https://zindi.africa/competitions/bloodsai-blood-spectroscopy-classification-challenge/data)
 - Unzip `Additional_hdl_rows_483.zip` `Additional_ldl_rows_410.zip` `Additional_hgb_rows_965_LOW_STD.zip` `Additional_ldl_rows_135_LOW_STD.zip` `Additional_hgb_rows_2457.zip` `Additional_hdl_rows_162_LOW_STD.zip`
 - `git clone https://github.com/blackhat-coder/Blood-Spectroscopy/`
-- Run `mkdir Additional`
-- Run 
+- Navigate to Working Directory, Run
 ```bash
  >> mkdir Additional
  ```
-- Run `pip install -r requirements.txt`
+```bash
+ >> pip install -r requirements.txt
+```
 
 # Usage(Jupyter Notebook)
 Open `EDA.ipynb` to access source codes. You can also make edits to suite your hacking style ☺
