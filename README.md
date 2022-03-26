@@ -17,4 +17,6 @@ On the electromagnetic spectrum, NIR spectra cover the wavelength range of 750-2
  
 ## Spectral Signature of Compounds
 <img src="https://github.com/blackhat-coder/Blood-Spectroscopy/blob/master/imgs/cholesterol.JPG" width="200" height="200"><img src="https://github.com/blackhat-coder/Blood-Spectroscopy/blob/master/imgs/Glucose.JPG" width="200" height="200"><img src="https://github.com/blackhat-coder/Blood-Spectroscopy/blob/master/imgs/hemoglobin.JPG" width="200" height="200">
-  
+ 
+Cholesterol Signature Graph, Glucose Signature Graph, Hemoglobin Signature Graph (From Left to Right)
+
