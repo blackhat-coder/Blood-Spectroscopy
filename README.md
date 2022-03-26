@@ -23,8 +23,10 @@ Cholesterol Signature Graph, Glucose Signature Graph, Hemoglobin Signature Graph
 # Setup
 - Download [Data Files](https://zindi.africa/competitions/bloodsai-blood-spectroscopy-classification-challenge/data)
 - Unzip `Additional_hdl_rows_483.zip` `Additional_ldl_rows_410.zip` `Additional_hgb_rows_965_LOW_STD.zip` `Additional_ldl_rows_135_LOW_STD.zip` `Additional_hgb_rows_2457.zip` `Additional_hdl_rows_162_LOW_STD.zip`
-- `git clone https://github.com/blackhat-coder/Blood-Spectroscopy/`
-- Navigate to Working Directory, Run:
+```bash
+ >> git clone https://github.com/blackhat-coder/Blood-Spectroscopy/
+ ```
+- Navigate to Working Directory `/Blood-Spectroscopy/`, Run:
 ```bash
  >> mkdir Additional
  ```
