@@ -21,6 +21,6 @@ On the electromagnetic spectrum, NIR spectra cover the wavelength range of 750-2
 Cholesterol Signature Graph, Glucose Signature Graph, Hemoglobin Signature Graph (From Left to Right)
 
 # Setup
-- Download ![Data Files](https://zindi.africa/competitions/bloodsai-blood-spectroscopy-classification-challenge/data) 
+- Download [Data Files](https://zindi.africa/competitions/bloodsai-blood-spectroscopy-classification-challenge/data) 
 - `git clone https://github.com/blackhat-coder/Blood-Spectroscopy/`
 - Run `pip install -r requirements.txt`
