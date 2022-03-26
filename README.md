@@ -28,4 +28,12 @@ Cholesterol Signature Graph, Glucose Signature Graph, Hemoglobin Signature Graph
 - Run `pip install -r requirements.txt`
 
 # Usage(Jupyter Notebook)
-Open `EDA.ipynb` to access source codes
+Open `EDA.ipynb` to access source codes. You can also make edits to suite your hacking style ☺
+
+# Hardware Requirements
+A computer with CPU :)
+A cup of cofee ☕
+
+# Licence
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/blackhat-coder/Blood-Spectroscopy/blob/master/LICENCE)
+
