@@ -39,7 +39,7 @@ Open `EDA.ipynb` to access source codes. You can also make edits to suite your h
 Some of the things I found useful while tackling this challenge
 - [SpectraAI](https://github.com/conor-horgan/spectrai) : Even though I had a hard time setting up and probably didn't use it. SpectraAI provides a deep learning framework to facilitate the training of neural networks on spectral data.
 ## Papers
-- Conor C. Horgan and Mads S. Bergholt, "spectrai: a deep learning framework for spectral data.", arXiv preprint arXiv:2108.07595 (2021).
+- Conor C. Horgan and Mads S. Bergholt, "spectrai: a deep learning framework for spectral data.", [arXiv preprint arXiv:2108.07595 (2021)](https://arxiv.org/abs/2108.07595).
 
 # Hardware Requirements
 - A computer with CPU :) 
