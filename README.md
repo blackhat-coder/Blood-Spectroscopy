@@ -46,5 +46,5 @@ Some of the things I found useful while tackling this challenge
 - A cup of cofee ☕
 
 # Licence
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/blackhat-coder/Blood-Spectroscopy/blob/master/LICENCE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/blackhat-coder/Blood-Spectroscopy/blob/master/LICENCE)
 
