@@ -25,14 +25,24 @@ Cholesterol Signature Graph, Glucose Signature Graph, Hemoglobin Signature Graph
 - Unzip `Additional_hdl_rows_483.zip` `Additional_ldl_rows_410.zip` `Additional_hgb_rows_965_LOW_STD.zip` `Additional_ldl_rows_135_LOW_STD.zip` `Additional_hgb_rows_2457.zip` `Additional_hdl_rows_162_LOW_STD.zip`
 - `git clone https://github.com/blackhat-coder/Blood-Spectroscopy/`
 - Run `mkdir Additional`
+- Run 
+```bash
+ >> mkdir Additional
+ ```
 - Run `pip install -r requirements.txt`
 
 # Usage(Jupyter Notebook)
 Open `EDA.ipynb` to access source codes. You can also make edits to suite your hacking style ☺
 
+# Acknowledgements
+Some of the things I found useful while tackling this challenge
+- [SpectraAI](https://github.com/conor-horgan/spectrai) : Even though I had a hard time setting up and probably didn't use it. SpectraAI provides a deep learning framework to facilitate the training of neural networks on spectral data.
+## Papers
+- Conor C. Horgan and Mads S. Bergholt, "spectrai: a deep learning framework for spectral data.", arXiv preprint arXiv:2108.07595 (2021).
+
 # Hardware Requirements
-- computer with CPU :) 
--  cup of cofee ☕
+- A computer with CPU :) 
+- A cup of cofee ☕
 
 # Licence
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/blackhat-coder/Blood-Spectroscopy/blob/master/LICENCE)
