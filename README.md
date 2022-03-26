@@ -31,7 +31,7 @@ Cholesterol Signature Graph, Glucose Signature Graph, Hemoglobin Signature Graph
 Open `EDA.ipynb` to access source codes. You can also make edits to suite your hacking style ☺
 
 # Hardware Requirements
-A computer with CPU :)
+A computer with CPU :) 
 A cup of cofee ☕
 
 # Licence
